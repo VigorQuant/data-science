@@ -1,25 +1,25 @@
-**项目背景**
+**Project Background**
 
-**背景描述**
+**Background Description**
 
-本数据集为模拟数据，汇总了用户在A/B测试中网页浏览和按钮点击的数据。
+This dataset consists of simulated data that summarizes user webpage views and button clicks in an A/B test.
 
-A/B测试是指对两个或多个版本的页面或广告进行测试，以确定哪个版本更有效。在A/B测试中，我们可以分析用户数据，以了解哪个版本的用户体验更好。
+A/B testing refers to testing two or more versions of a webpage or advertisement to determine which version is more effective. In A/B testing, user data is analyzed to understand which version provides a better user experience.
 
-进行 A/B 测试通常包括以下步骤：
+The A/B testing process typically includes the following steps:
 
-在本项目中，主要是介绍数据分析和结果解读部分。
+In this project, the main focus is on the data analysis and interpretation of results.
 
-• **设定目标和假设**：确定需要测试和比较的指标，例如转化率、点击率等。同时设定原假设和备择假设，以便在测试后进行统计推断。
+• **Set goals and hypotheses**：Determine the metrics to be tested and compared, such as conversion rates, click-through rates, etc. Also, establish the null hypothesis and alternative hypothesis for statistical inference after testing.
 
-• **划分样本**：将被测试的用户或样本群体随机划分为 A 组和 B 组，确保两组在特征分布上的一致性，这样可以减少偏差的影响。
+• **Split Sample**：Randomly divide the tested users or sample groups into A and B groups, ensuring consistency in feature distribution to reduce bias impact.
 
-• **制定测试计划**：确定测试的时间范围和样本规模，并设置测试所需的统计指标以及显著性水平。
+• **Develop a testing plan**：Specify the time range and sample size for the test, and set the required statistical metrics and significance level.
 
-• **实施测试**：在测试期间，对 A 组和 B 组分别应用不同的变量，例如不同的页面设计、按钮颜色等。收集必要的数据，例如转化数、点击数等。
+• **Implement**：Apply different variables to groups A and B during the test, such as different page designs, button colors, etc. Collect necessary data, such as conversion numbers, click counts, etc.
 
-• **数据分析**：比较两组的测试结果，计算转化率差异、点击率差异等统计指标。使用合适的统计方法，例如假设检验或置信区间，进行显著性检验。
+• **Data analysis**：Compare the test results of the two groups, calculate statistical indicators such as conversion rate differences, click-through rate differences, etc. Use appropriate statistical methods, such as hypothesis testing or confidence intervals, for significance testing.
 
-• **结果解读**：根据显著性检验的结果，判断是否拒绝原假设。如果差异是显著的，说明两组的指标存在着显著差异；如果差异不显著，则无法得出结论，需要更多数据或者重新设计测试。
+• **Interpretation**：Based on the results of significance testing, determine whether to reject the null hypothesis. If the difference is significant, it indicates a significant difference in indicators between the two groups; if the difference is not significant, no conclusion can be drawn, and more data or a redesign of the test may be needed.
 
-• **总结和应用**：总结 A/B 测试的结果，根据实际情况决定是否采纳更好的选择。如果测试结果有助于提高指标或达成目标，可以将更好的变量应用到实际生产环境中。
+• **Summary and application**：Summarize the results of the A/B test, and based on the actual situation, decide whether to adopt the better option. If the test results contribute to improving metrics or achieving goals, the better variables can be applied to the actual production environment.
